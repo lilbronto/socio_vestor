@@ -9,6 +9,7 @@ numpy
 pandas
 scikit-learn
 tensorflow-metal
+tensorflow-macos
 statsmodels
 scipy
 matplotlib
